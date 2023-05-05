@@ -1,12 +1,7 @@
 # Rate Limiter for APIs
 
 
-- API throttling function implemented using FastAPI and third-party component fastapi-ratelimiter. Set the API to no more than 100 requests within 1 minute as required, otherwise an error will be raised.
-
-And [fastapi-ratelimiter](https://github.com/GLEF1X/fastapi-ratelimiter) component relies on the Redis service
-
-
-API throttling function implemented using [FastAPI](https://github.com/tiangolo/fastapi) and third-party component [fastapi-ratelimiter](https://github.com/GLEF1X/fastapi-ratelimiter). Set the API to no more than 100 requests within 1 minute as required, otherwise an error will be reported. The fastapi-ratelimiter component relies on Redis service
+- API throttling function implemented using [FastAPI](https://github.com/tiangolo/fastapi) and third-party component [fastapi-ratelimiter](https://github.com/GLEF1X/fastapi-ratelimiter). Set the API to no more than 100 requests within 1 minute as required, otherwise an error will be reported. The fastapi-ratelimiter component relies on Redis service
 
 
 
